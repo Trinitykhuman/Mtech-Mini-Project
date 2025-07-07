@@ -1,2 +1,2 @@
 # Mtech-Mini-Project
-Mini Project for Mtech
+Title - AI-Powered Hand Gesture Recognition for Mathematical Problem Solving and Shape Detection.
